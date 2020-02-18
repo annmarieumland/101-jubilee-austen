@@ -29,10 +29,10 @@ body{
 /******HEADER*****/
 
 header {
-    height: 800px;
+    height: auto;
     width: auto;
     background: url(../img/hero.png);
-    background-size: cover;
+    background-size:cover;
   }
 header h1{
   padding: 65px 0 65px 25px;
@@ -121,7 +121,7 @@ header h2 span {
 
 #contact{
    background:#ebebeb;
-   height: 700px;
+   height: auto;
   }
 #contact .full-width{
   padding: 100px;
